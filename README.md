@@ -32,7 +32,7 @@ FaceMaskDetection/
 │   └── best_mask_model.h5
 │
 ├── haarcascade_frontalface_default.xml
-├── mask_detector.py
+├── detect_mask_video.py
 ├── requirements.txt
 └── README.md
 ```
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Application
 ```bash
-python mask_detector.py
+python detect_mask_video.py
 ```
 
 ---
@@ -90,3 +90,4 @@ numpy
 
 ## 🏁 License
 This project is released under the **MIT License** — feel free to modify and share.
+
