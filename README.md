@@ -75,7 +75,7 @@ numpy
 ---
 
 ## 🧠 Model Details
-- Model used: `mask_detector_model_binary.h5`
+- Model used: `best_mask_model.h5`
 - Trained using: TensorFlow/Keras
 - Output: Binary classification (Mask / No Mask)
 - Optimized for real-time detection on CPU
@@ -90,4 +90,5 @@ numpy
 
 ## 🏁 License
 This project is released under the **MIT License** — feel free to modify and share.
+
 
